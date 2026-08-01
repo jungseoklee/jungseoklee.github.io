@@ -13,7 +13,7 @@ Email: jungseoklee85 [at] gmail (dot) com | Location: Irvine, CA
 
 = Work
 
-See #link("https://jungseoklee.github.io/projects")[projects].
+See #link("https://jungseoklee.github.io/projects")[timeline and details].
 
 - Senior Software Engineer, Amazon Web Services, Auto Scaling, 2017 - 2025 (promoted in 2021)
   - Scaled EC2 Auto Scaling to 50+ regions, serving 50% of global EC2 control plane traffic.

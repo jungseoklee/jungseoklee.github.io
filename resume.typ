@@ -19,13 +19,10 @@ See #link("https://jungseoklee.github.io/projects")[timeline and details].
   - Scaled EC2 Auto Scaling to 50+ regions, serving 50% of global EC2 control plane traffic.
   - Shipped 10+ #link("https://aws.amazon.com/ec2/autoscaling/")[EC2 Auto Scaling] features including predictive scaling — owned end-to-end from design to operation.
   - Owned reliability and performance of ELB integration.
-    - Eliminated over 99% of failures from ELB throttling and cut P90 EC2 instance termination latency by 48%.
-    - Resolved double-digit customer cases including high-severity ones.
-  - Optimized fleet-wide performance and efficiency via JDK upgrade, GC tuning, and tiered compilation.
+  - Optimized fleet-wide performance and efficiency.
   - Hardened test infrastructure and deployment safety.
-    - Fixed race conditions and flakiness across thousands of integration tests.
 - Software Engineer, Samsung Electronics, System LSI, 2011 - 2017 (promoted in 2013)
-  - Enabled bringup of the company’s first ARM64 SoC without silicon
+  - Enabled bring-up of the company’s first ARM64 SoC without silicon
     - Upstreamed 4-level memory management to Linux Kernel.
   - Performed bring-up and post-silicon validation for 5+ SoCs.
     - Implemented software stack and test infrastructure for bring-up.

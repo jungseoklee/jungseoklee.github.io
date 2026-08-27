@@ -23,7 +23,7 @@ jobs:
 
       - name: Build all pages
         run: |
-          mkdir -p dist/projects          
+          mkdir -p dist/projects
           typst compile --root . index.typ dist/index.html --features html
           typst compile --root . projects/index.typ dist/projects/index.html --features html
           typst compile --root . resume.typ dist/resume.pdf
